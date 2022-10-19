@@ -2,7 +2,7 @@
 
 ### 1.description
 
-In order to promote the research of pavement crack detection based on arbitrary-oriented object detection, we public our dataset. Features of the dataset include:
+In order to promote the research of pavement crack detection based on arbitrary-oriented object detection, we used the inspection vehicle to collect a large amount of data on the road. The image contains many difficult samples ( including brake marks, water, shadow, repair, etc. ). Features of the dataset include:
 
 (1) Data collection Qingshuiting avenue and other roads in Nanjing, China</br>
 (2) Vehicle speed from 30-40 km / h</br>
@@ -13,7 +13,9 @@ In order to promote the research of pavement crack detection based on arbitrary-
 
 ![https://github.com/SEU-zhc/Crack-Arbitrary-Oriented-Object-Detection-Dataset/blob/main/fig1.png](https://github.com/SEU-zhc/Crack-Arbitrary-Oriented-Object-Detection-Dataset/blob/main/fig1.png)
 ### 2.Download
-After the paper is accepted, we will public the full data set, you can now download the mini data set (20 pics) at xxxx
+After the paper is accepted, we will public the full data set, you can now download the mini data set (20 pics) at 
+链接：https://pan.baidu.com/s/1rzO_ewXIuS0xq9ZQPCTr9g 
+提取码：9LNP 
 
 ### 3.Citation
 Our paper **《Pavement Crack Detection Method Based on Arbitrary-Oriented Object Detection》** is submitted to Journal ***《CONSTRUCTION AND BUILDING MATERIALS》***, When accepted, welcome to kindly cite it.
