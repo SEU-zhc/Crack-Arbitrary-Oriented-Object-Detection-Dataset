@@ -16,6 +16,3 @@ In order to promote the research of pavement crack detection based on arbitrary-
 After the paper is accepted, we will public the full data set, you can now download the mini data set (20 pics) at 
 链接：https://pan.baidu.com/s/1rzO_ewXIuS0xq9ZQPCTr9g 
 提取码：9LNP 
-
-### 3.Citation
-Our paper **《Pavement Crack Detection Method Based on Arbitrary-Oriented Object Detection》** is submitted to Journal ***《CONSTRUCTION AND BUILDING MATERIALS》***, When accepted, welcome to kindly cite it.
